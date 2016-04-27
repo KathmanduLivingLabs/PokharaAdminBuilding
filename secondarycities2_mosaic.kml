@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>secondarycities2 Pix4D</name>
+<description></description>
+<Style><ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<NetworkLink>
+<name>16/48055/38133.kml</name>
+<Region>
+<LatLonAltBox>
+<north>28.256005619824972</north>
+<south>28.251166905231489</south>
+<east>83.979492187500014</east>
+<west>83.973999023437486</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>16/48055/38133.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<NetworkLink>
+<name>16/48055/38134.kml</name>
+<Region>
+<LatLonAltBox>
+<north>28.260844114804819</north>
+<south>28.256005619824972</south>
+<east>83.979492187500014</east>
+<west>83.973999023437486</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>16/48055/38134.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+
+</Document>
+</kml>
